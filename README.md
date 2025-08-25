@@ -5,10 +5,26 @@ I'm a student passionate about **C programming**, **embedded development**, **el
 ---
 
 ## 🛠 Skills
+
+### Programming & Software
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-0078D7?style=flat&logo=stm32&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### Embedded & Hardware
+![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+![Electronics](https://img.shields.io/badge/Electronics-8B0000?style=flat&logo=raspberrypi&logoColor=white)
+
+### Tools & Workflow
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat&logo=cmake&logoColor=white)
+![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
+
+### Design & 3D
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
+![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=flat&logo=3dprint&logoColor=white)
+
 
 ---
 
