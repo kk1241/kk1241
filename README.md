@@ -1,6 +1,10 @@
 # Hi, I'm Kostya 👋
 
-I'm a student passionate about **C programming**, **embedded development**, **electronics**, and **3D modeling**. I enjoy creating libraries, working with microcontrollers, and designing 3D-printable models.
+## 👨‍💻 About Me
+- 🎓 Student, passionate about **C programming** and **embedded systems**
+- ⚡ Currently learning STM32 development and low-level C
+- 🔧 Building projects with Arduino and custom electronics
+- 🎯 Goal: become an embedded engineer and contribute to open-source
 
 ---
 
