@@ -11,9 +11,9 @@
 ## 🛠 Skills
 
 ### Programming & Software
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
+
 
 ### Embedded & Hardware
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="60" height="60"/>  
