@@ -11,14 +11,14 @@
 ## 🛠 Skills
 
 ### Programming & Software
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ### Embedded & Hardware
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![Electronics](https://img.shields.io/badge/Electronics-8B0000?style=flat&logo=raspberrypi&logoColor=white)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" alt="Embedded C" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="60" height="60"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Electronics" width="60" height="60"/>  
 
 ### Tools & Workflow
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
@@ -26,9 +26,8 @@
 ![CLion](https://img.shields.io/badge/CLion-000000?style=flat&logo=clion&logoColor=white)
 
 ### Design & 3D
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
-![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=flat&logo=3dprint&logoColor=white)
-
+<img src="https://img.icons8.com/color/452/autodesk-fusion-360.png" alt="Fusion 360" width="60" height="60"/>  
+<img src="https://cdn-icons-png.flaticon.com/512/5948/5948565.png" alt="3D Printing" width="60" height="60"/>  
 
 ---
 
