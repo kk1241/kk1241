@@ -10,7 +10,6 @@
 
 ## 🛠 Skills
 
-
 ### Programming & Software
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -29,41 +28,6 @@
 ### Design & 3D
 ![Fusion 360](https://img.shields.io/badge/Fusion%20360-FF6F00?style=flat&logo=autodesk&logoColor=white)
 ![3D Printing](https://img.shields.io/badge/3D%20Printing-FF4500?style=flat&logo=3dprint&logoColor=white)
-
-
----
-
-## 📂 My Projects
-
-### ![s21_matrix](link-to-gif1) s21_matrix
-A C library for matrix operations: creation, arithmetic, transpose, determinant, inverse.  
-🔗 [Repository](link)
-
-### ![STM32 Projects](link-to-gif2) STM32 Blue Pill Projects
-Various embedded projects with STM32 microcontrollers.  
-🔗 [Repository](link)
-
-### ![Arduino](link-to-gif3) Arduino Projects
-Experiments and projects using Arduino boards.  
-🔗 [Repository](link)
-
-### ![3D Models](link-to-gif4) 3D Models
-STL files ready for 3D printing.  
-🔗 [Repository](link)
-
-### ![Electronics](link-to-gif5) Electronics Designs
-Schematics and PCB designs.  
-🔗 [Repository](link)
-
-
----
-
-## 📸 Gallery
-Showcase of your projects in action:  
-- 3D prints  
-- PCB assemblies  
-- STM32 boards working  
-- Embedded circuits  
 
 ---
 
