@@ -35,29 +35,26 @@
 
 ## 📂 My Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-### <img src="link-to-gif1" width="100" /> **s21_matrix**  
+### ![s21_matrix](link-to-gif1) s21_matrix
 A C library for matrix operations: creation, arithmetic, transpose, determinant, inverse.  
 🔗 [Repository](link)
 
-### <img src="link-to-gif2" width="100" /> **STM32 Blue Pill Projects**  
+### ![STM32 Projects](link-to-gif2) STM32 Blue Pill Projects
 Various embedded projects with STM32 microcontrollers.  
 🔗 [Repository](link)
 
-### <img src="link-to-gif3" width="100" /> **Arduino Projects**  
+### ![Arduino](link-to-gif3) Arduino Projects
 Experiments and projects using Arduino boards.  
 🔗 [Repository](link)
 
-### <img src="link-to-gif4" width="100" /> **3D Models**  
+### ![3D Models](link-to-gif4) 3D Models
 STL files ready for 3D printing.  
 🔗 [Repository](link)
 
-### <img src="link-to-gif5" width="100" /> **Electronics Designs**  
+### ![Electronics](link-to-gif5) Electronics Designs
 Schematics and PCB designs.  
 🔗 [Repository](link)
 
-</div>
 
 ---
 
