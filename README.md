@@ -70,7 +70,3 @@ Showcase of your projects in action:
 
 ---
 
-## 📫 Contact
-- Email: your-email@example.com  
-- LinkedIn: [Your LinkedIn](link)  
-- Twitter: [Your Twitter](link)  
