@@ -20,6 +20,7 @@
 ### Tools:
 
 <span>
+  <img height="30" src="https://user-images.githubusercontent.com/60503970/164753681-bf2f7b61-adb4-4fca-85ad-43fb02541682.png">
   <img height="30" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png"> <!-- CLion -->
   <img height="30" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"> <!-- PyCharm -->
   <img height="30" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png"> <!-- PlatformIO -->
