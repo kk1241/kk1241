@@ -10,13 +10,12 @@
 ### Languages:
 
 <span>
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"> <!-- C -->
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"> <!-- C++ -->
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> <!-- Arduino -->
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM32_logo.svg"> <!-- STM32 -->
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Assembly_language_logo.png"> <!-- Assembly -->
-  <img height="30" src="https://i.imgur.com/7jP6RzG.png"> <!-- ARM (скопировано и залито на Imgur) -->
-</span><br><br>
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+  <img height="30" src="https://img.icons8.com/color/452/stm32-mcu.png">
+</span>
+
 
 ### Tools:
 
