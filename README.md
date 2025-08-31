@@ -10,7 +10,7 @@
 **Languages:**
 
 <span>
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+  <img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM_logo_2015.svg">
