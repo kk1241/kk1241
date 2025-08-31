@@ -13,7 +13,7 @@
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  <img height="30" src="https://img.icons8.com/color/452/stm32-mcu.png">
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM32_logo.svg">
 </span>
 
 
