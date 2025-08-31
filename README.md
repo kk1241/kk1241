@@ -16,7 +16,6 @@
   <img height="20" src="https://cdn.worldvectorlogo.com/logos/arm-logo-2017.svg"> <!-- ARM -->
 </span><br><br>
 
-
 ### Tools:
 
 <span>
