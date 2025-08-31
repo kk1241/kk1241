@@ -10,12 +10,13 @@
 ### Languages:
 
 <span>
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM_logo_2015.svg">
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"> <!-- C (другой знак) -->
+  <img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- C++ -->
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> <!-- Arduino -->
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM32_logo.svg"> <!-- STM32 -->
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Asm_Logo.svg"> <!-- Assembly -->
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arm-logo-2017.svg"> <!-- ARM -->
 </span><br><br>
-
 
 
 ### Tools:
