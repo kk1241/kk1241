@@ -13,7 +13,7 @@
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/STM32_logo.svg">
+  <img height="30" src="[https://upload.wikimedia.org/wikipedia/commons/3/39/STM32_logo](https://worldvectorlogo.com/logo/arm-logo-2017).svg">
 </span>
 
 **Tools:**
