@@ -25,4 +25,9 @@
   <img height="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"> <!-- GitHub Actions -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <!-- Git -->
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <!-- GitHub -->
+  <span>
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/autodesk-fusion-360.svg"> <!-- Fusion 360 -->
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/3D_icon.svg"> <!-- 3D Printing -->
+</span>
+
 </span>
