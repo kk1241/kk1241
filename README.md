@@ -12,7 +12,7 @@
 <span>
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> <!-- C -->
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C++_Logo.svg"> <!-- C++ -->
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Arduino_Logo.svg"> <!-- Arduino -->
+  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM32_logo.svg"> <!-- STM32 -->
   <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/2/23/Assembly_language_logo.png"> <!-- Assembly -->
 </span><br><br>
