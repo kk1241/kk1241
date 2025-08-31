@@ -3,9 +3,7 @@
 **About me:**
 
 - 🎓 Student & Embedded Developer  
-- ⚡ Interested in **C, STM32, Arduino, Electronics, 3D Modeling**  
-- 📚 Working on [s21_matrix](https://github.com/) and other C projects  
-
+- ⚡ Interested in **C, STM32, Arduino, Electronics, 3D Modeling**   
 ---
 ### Languages:
 
@@ -13,7 +11,6 @@
   <img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
   <img height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> <!-- C++ -->
   <img height="35" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg"> <!-- Arduino -->
-  <img height="20" src="https://cdn.worldvectorlogo.com/logos/arm-logo-2017.svg"> <!-- ARM -->
 </span><br><br>
 
 ### Tools:
