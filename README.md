@@ -10,18 +10,19 @@
 **Languages:**
 
 <span>
-  <img height="35" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png">
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/08/STM_logo_2015.svg">
-</span><br><br>
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/3/39/STM32_logo.svg">
+</span>
 
 **Tools:**
 
 <span>
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/CLion_Icon.svg">
-  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
-  <img height="30" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png">
-  <img height="30" src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg">
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/CLion_Icon.svg"> <!-- CLion -->
+  <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"> <!-- PyCharm -->
+  <img height="30" src="https://cdn.platformio.org/images/platformio-logo.17fdc3bc.png"> <!-- PlatformIO -->
   <img height="30" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"> <!-- GitHub Actions -->
-</span><br><br>
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> <!-- Git -->
+  <img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> <!-- GitHub -->
+</span>
